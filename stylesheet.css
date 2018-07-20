@@ -1,0 +1,117 @@
+/* Colors
+Misty Blue - #90AFC5
+Stone Blue - #336B87
+Shadow - #2A3132
+Reddish/Brown Accent = #763626
+ */
+
+/* Center Form */
+.myForm {
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 768px;
+}
+
+body,
+label {
+background-color: #90AFC5;
+font-family: 'Ruda', sans-serif;
+color: #2A3132;
+}
+
+
+legend.calculate {
+color: #336B87;
+font-weight: bolder;
+font-size: 1.4em;
+font-family: 'Bungee Inline', cursive;
+}
+
+.tdee-header {
+font-size: 2.5em;
+font-family: 'Bungee Inline', cursive;
+text-align: center;
+color: #336B87;
+}
+
+.tdee-intro {
+font-size: 1.2em;
+font-weight: bold;
+}
+
+a:not([href]):not([tabindex]) {
+  color: #763626;
+  text-decoration: none;
+}
+
+.info {
+color: #763626;
+}
+
+input#age,
+select {
+color: #763626;
+font-family: 'Ruda', sans-serif;
+}
+
+.pure-g [class*=pure-u] {
+font-family: 'Ruda', sans-serif;
+color: #763626;
+}
+
+input[type=radio]{
+margin: 10px;
+}
+
+.btn-center{
+margin-left: auto;
+margin-right: auto;
+}
+
+/* loader */
+#loading, #results {
+display:none;
+margin: auto;
+}
+
+.loading-image {
+display:block;
+margin: 0 auto;
+}
+
+.bmr,
+.tdee {
+display:block;
+margin: 0 auto;
+color: #763626;
+font-size: 1.4em;
+text-align: center;
+}
+
+.card-header {
+font-size: 1.0em;
+font-family: 'Bungee Inline', cursive;
+color: #90AFC5;
+}
+
+.secondary-head {
+color: #336B87;
+font-size: 1.2em;
+font-weight: bolder;
+}
+
+.card-body {
+background-color: #ededed;
+}
+
+.maintain,
+.lose-1lb,
+.lose-oneandhalflb,
+.lose-2lb{
+color: #763626;
+}
+
+.col-md-12{
+padding: 0;
+margin: 0;
+}
