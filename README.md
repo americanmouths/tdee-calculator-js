@@ -11,5 +11,5 @@ To contribute please:
 1. Send a pull request with your purposed contributions or any issues you have found.
 2. Please clarify why you are purposing the change.
 
-<h3>Licensure</h3>
-https://github.com/americanmouths/tdee-calculator-js/blob/master/LICENSE
+<h3><a href="https://github.com/americanmouths/tdee-calculator-js/blob/master/LICENSE">Licensure</a></h3>
+
